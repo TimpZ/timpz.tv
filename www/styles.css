@@ -1,0 +1,25 @@
+body
+{
+	background-color: rgb(24, 24, 24);
+	margin: 0px;
+}
+
+h3
+{
+	color: rgb(164, 154, 164);font-family: monospace;
+}
+
+p
+{
+	color: rgb(164, 154, 164);font-family: monospace;
+}
+
+
+.list
+{
+	background-color: rgb(44, 44, 44);
+	color: rgb(244, 234, 244);
+	font-family: monospace;
+	border: 10px solid seashell;
+	margin: 0px;
+}
